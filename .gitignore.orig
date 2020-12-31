@@ -1,5 +1,7 @@
+<<<<<<< HEAD
 .dist
 package-lock.json
+=======
 # Logs
 logs
 *.log
@@ -104,3 +106,4 @@ dist
 
 # TernJS port file
 .tern-port
+>>>>>>> e100c0325ee32f33d6c77a6b1c0b949d31464c06
