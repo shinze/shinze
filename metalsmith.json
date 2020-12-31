@@ -1,0 +1,9 @@
+{
+  "source": "src",
+  "destination": "dist",
+  "plugins": {
+    "metalsmith-drafts": true,
+    "metalsmith-markdown": true,
+    "metalsmith-layouts": "handlebars"
+  }
+}
